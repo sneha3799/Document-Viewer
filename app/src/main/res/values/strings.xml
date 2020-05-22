@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">viewer</string>
+    <string name="title_storage_permission">Storage Access Required</string>
+    <string name="text_storage_permission">Storage access is required to proceed</string>
+</resources>
